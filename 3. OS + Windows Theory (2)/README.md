@@ -1,4 +1,4 @@
 KUICS Study Forensic Repository
 ==============================================================================
 
-2.  OS - Theory ( Memory, System Call, Disk )
+3.	OS + Windows Theory (2) 	- Disk, Windows Cache, Event Log, ... , etc.
