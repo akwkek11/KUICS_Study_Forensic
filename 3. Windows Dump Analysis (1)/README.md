@@ -12,4 +12,5 @@ https://github.com/volatilityfoundation/volatility<br>
 
 Downloads
 
-https://drive.google.com/open?id=0B7Llj1y13Ueab2xpa014LTdGTlE
+https://drive.google.com/open?id=0B7Llj1y13Ueab2xpa014LTdGTlE<br>
+http://www.volatilityfoundation.org/26
