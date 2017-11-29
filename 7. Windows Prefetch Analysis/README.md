@@ -1,4 +1,4 @@
 KUICS Study Forensic Repository
 ==============================================================================
 
-8.  Windows Registry (3)		- Practice With Example 2 : Tracking User Activity
+7.  Windows Prefetch Analysis	- Prefetch Analysis with Tool ( WinPrefetchView )
