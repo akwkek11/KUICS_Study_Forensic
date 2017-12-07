@@ -11,5 +11,4 @@ Course ( It can be changed )
 5.  Windows Theory (2) 			- Disk, Windows Cache, Event Log, ..., etc.
 6.  Windows Registry (1) 		- What is Registry?
 7.  Windows Prefetch Analysis	- Prefetch Analysis with Tool ( WinPrefetchView )
-8.  Windows Registry (2)		- Practice With Example : Tracking User Activity
-9.  Misc						- Advanced (PE64, Kernel API, etc.), Other Things
+8.  Windows Registry (2)		- Registry Path And Example With Tool - REGA
